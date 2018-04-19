@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zinoki/mvp-starter/issues"
   },
-  "homepage": "https://github.com/zinoki/mvp-starter#readme"
+  "homepage": "https://github.com/zinoki/mvp-starter#readme",
+  "devDependencies": {
+    "webpack": "^4.6.0"
+  }
 }
